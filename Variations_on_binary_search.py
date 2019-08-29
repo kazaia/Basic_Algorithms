@@ -1,3 +1,0 @@
-# Variations on Binary Search
-
-
